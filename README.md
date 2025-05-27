@@ -1,4 +1,4 @@
-# Hi there, I'm Furqan Khan! 👋
+I'm Furqan Khan! 
 
 Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong interest in machine learning, data analysis, and building data-driven solutions. Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and connect with me!
 
