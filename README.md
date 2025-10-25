@@ -1,90 +1,85 @@
-============================================================
-F U R Q A N   K H A N
-AI Engineer | LLM Engineer (RAG + LangChain)
-============================================================
 
-GitHub: https://github.com/furqank73  
-LinkedIn: https://www.linkedin.com/in/furqan-khan-256798268  
-Kaggle: https://www.kaggle.com/fkgaming  
-Email: furqankhan123213@gmail.com  
+# Hi, I'm Furqan Khan 👋
+
+Welcome to my GitHub profile! I’m a **Machine Learning Engineer & Data Scientist** who loves building **end-to-end AI solutions**, **ML models**, and **intelligent applications** that solve real-world problems. I specialize in **Python, Machine Learning, Deep Learning, Streamlit Apps, and AI Automation**.
 
 ---
 
-## ███ About Me
-I am an AI Engineer specializing in Large Language Models, RAG pipelines, and intelligent AI systems. I build scalable machine learning solutions, AI-driven applications, and deploy real-world ML products using modern AI frameworks. My expertise includes LLM applications, AI agents, vector databases, and MLOps fundamentals. I focus on solving real business problems through intelligent automation and data-driven engineering.
+## About Me
+
+- Currently working on **AI apps with RAG, LangChain, and Agentic AI**
+- Passionate about **LLMs, Vector Databases, GenAI, and Deep Learning**
+- Strong command over **data pipelines, model deployment, and MLOps basics**
+- Ask me about **Python, Machine Learning, Deep Learning, NLP, AI Apps**
+- Contact me: **furqankhan123213@gmail.com**
+- LinkedIn: [linkedin.com/in/furqan-khan-256798268](https://www.linkedin.com/in/furqan-khan-256798268/)
 
 ---
 
-## ███ Career Vision
-I am focused on advancing in the field of AI Engineering by developing secure, production-ready AI systems.  
-Current interests include:
-- Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)
-- AI Agents with LangChain and LangGraph
-- Machine Learning Systems & Optimization
-- Applied AI Engineering for real-world impact
+## Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python, SQL |
+| Machine Learning | Scikit-Learn, XGBoost, LightGBM |
+| Deep Learning | TensorFlow, Keras, PyTorch |
+| NLP & LLMs | LangChain, Hugging Face, Vector DBs |
+| Data Tools | Pandas, NumPy, Matplotlib, Seaborn |
+| Visualization | Power BI, Plotly |
+| Deployment | Streamlit, FastAPI |
+| Tools | Git, VS Code, Docker |
 
 ---
 
-## ███ Tech Stack
+## 🔥 Top Projects
 
-**Languages:** Python, SQL  
-**Machine Learning:** Scikit-Learn, XGBoost, LightGBM  
-**Deep Learning:** TensorFlow, Keras, PyTorch  
-**LLMs & AI Engineering:** LangChain, LangGraph, Hugging Face, Vector Databases  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-**Visualization:** Plotly, Power BI  
-**Deployment:** Streamlit, Flask, FastAPI  
-**Tools:** Git, Docker, VS Code  
+### 🧠 AI & ML Data analysis Projects/Applications
+| Project | Description | Tech |
+|---------|-------------|------|
+| **PPE-Helmet-Vest-Detection-using-CNN-and-Transfer-Learning** | ML model + Streamlit app to identifies safety helmets and vests | Python, ML, Streamlit |
+| **emotion_sentiment_analysis_lstm** | classify emotions such as happiness, sadness, anger, fear, love, and surprise |LSTM BiLSTM tensorflow |
+| **Data-Analysis-Real-World-Use_cases** | End-to-end analysis on real-world datasets | Pandas, NumPy, Matplotlib, Seaborn, and Plotly |
+| college-chatbot-bert | An AI-powered college chatbot built with BERT transformer for answering academic and campus-related queries. | NLP + Streamlit |
+| Health Data Clustering | KMeans clustering Streamlit dashboard | Unsupervised ML |
 
----
-
-## ███ Projects
-
-### AI & Machine Learning
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| Car Price Prediction | End-to-end ML model + deployment-ready pipeline | Python, ML, Streamlit |
-| House Price Prediction | Advanced regression with feature engineering | Scikit-Learn |
-| Customer Churn Prediction | Risk scoring model + SHAP explainability | XGBoost, ML, EDA |
-| Health Data Clustering | KMeans segmentation dashboard | Unsupervised ML |
-| Personality Prediction | Behavioral ML classification system | ML, Streamlit |
-
-### AI Engineering & RAG
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| Multi-Modal RAG System | PDF question answering AI system | LangChain, Gemini |
-| LangGraph AI Agent | Autonomous task AI agent system | LangGraph, Python |
-| YouTube Comment Scraper | AI text mining & sentiment engine | Python |
-| Text-to-Speech Engine | Audio synthesis application | Streamlit |
+### 🤖 AI Engineering & RAG
+| Project | Description | Tech |
+|---------|-------------|------|
+|  **Multi-Modal RAG App** | PDF AI chatbot + document QA | LangChain, Gemini  
+|  **RAG-Chatbot-with-DataScience-Notes**|chatbot using a Data Science PDF.|Langchain Faiss vscotrstore groqapi|
+| **LangGraph AI Agent** | Autonomous AI agent using LangGraph | Agentic AI |
+| **Text-to-Speech App** | Custom AI voice generator | Streamlit, gTTS |
 
 ---
 
-## ███ Skills & Tools
-![Python](https://img.shields.io/badge/Python-Expert-b5179e)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-b5179e)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Experienced-b5179e)
-![LangChain](https://img.shields.io/badge/LangChain-LLM%20Apps-b5179e)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-b5179e)
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-b5179e)
-![SQL](https://img.shields.io/badge/SQL-Database-b5179e)
-![Git](https://img.shields.io/badge/Git-Version%20Control-b5179e)
+## GitHub Stats
+
+![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqank73&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqank73&layout=compact&theme=radical)
 
 ---
 
-## ███ GitHub Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=furqank73&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqank73&layout=compact&theme=radical)
+## Collaboration
+
+I’m open to collaborations on:
+✅ Machine Learning Projects  
+✅ AI Agent & LLM Applications  
+✅ Streamlit App Development  
+✅ Data Science Dashboards  
+✅ End-to-End ML Deployment  
 
 ---
 
-## ███ Contact
-If you are working on AI Engineering, Machine Learning, NLP/LLM solutions, or want to collaborate on impactful AI projects, feel free to connect.
+## Connect With Me
+
+- Email: **furqankhan123213@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/furqan-khan-256798268/
+- GitHub: https://github.com/furqank73
+- Kaggle: https://www.kaggle.com/fkgaming
 
 ---
 
-## ███ Open to
-AI Engineer • LLM Engineer • Machine Learning Engineer • Data Scientist Roles  
-Email: furqankhan123213@gmail.com
+### Favorite Quote
+> "First, solve the problem. Then, write the code." – John Johnson
 
-============================================================
-
+Thanks for visiting! Feel free to explore my repositories and connect with me. 
