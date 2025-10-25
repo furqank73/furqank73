@@ -1,73 +1,85 @@
-I'm Furqan Khan! 
+# Hi, I'm Furqan Khan 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong interest in machine learning, data analysis, and building data-driven solutions. Here, you'll find a collection of my projects, experiments, and contributions. Feel free to explore and connect with me!
+Welcome to my GitHub profile! I’m a **Machine Learning Engineer & Data Scientist** who loves building **end-to-end AI solutions**, **ML models**, and **intelligent applications** that solve real-world problems. I specialize in **Python, Machine Learning, Deep Learning, Streamlit Apps, and AI Automation**.
 
 ---
 
 ## 🚀 About Me
 
-- **Data Scientist** with experience in machine learning, data analysis, and predictive modeling.
-- Currently working on projects and exploring advanced AI techniques in data science.
-- Working on projects that leverage data to solve real-world problems.
-- Ask me about **Python, Machine Learning, Data Visualization, or anything data-related**.
-- How to reach me: [Email](furqankhan123213@gmail.com) | [LinkedIn](https://www.linkedin.com/in/furqan-khan-256798268/)
+- 🔭 Currently working on **AI apps with RAG, LangChain, and Agentic AI**
+- 🤖 Passionate about **LLMs, Vector Databases, GenAI, and Deep Learning**
+- 📊 Strong command over **data pipelines, model deployment, and MLOps basics**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, AI Apps**
+- 📫 Contact me: **furqankhan123213@gmail.com**
+- 🔗 LinkedIn: [linkedin.com/in/furqan-khan-256798268](https://www.linkedin.com/in/furqan-khan-256798268/)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-Here are some of the technologies and tools I work with:
-
-- **Programming Languages**: Python,SQL
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Data Visualization**:Power BI, Plotly
-- **Tools**: Git, Jupyter Notebook, VS Code, Docker
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python, SQL |
+| Machine Learning | Scikit-Learn, XGBoost, LightGBM |
+| Deep Learning | TensorFlow, Keras, PyTorch |
+| NLP & LLMs | LangChain, Hugging Face, Vector DBs |
+| Data Tools | Pandas, NumPy, Matplotlib, Seaborn |
+| Visualization | Power BI, Plotly |
+| Deployment | Streamlit, FastAPI |
+| Tools | Git, VS Code, Docker |
 
 ---
 
-## 🔥 Pinned Projects
+## 🔥 Top Projects
 
-Here are some of my standout projects:
+### 🧠 AI & ML Applications
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚗 **Car Price Prediction App** | ML model + Streamlit app to predict used car prices | Python, ML, Streamlit |
+| 🏠 **House Price Prediction** | End-to-end ML pipeline for price predictions | Scikit-Learn, Feature Engineering |
+| 📊 **Customer Churn Prediction** | Churn scoring + ML + SHAP explainability | XGBoost, Streamlit |
+| 🧍 Personality Prediction App | Introvert/Extrovert prediction using behavioral data | ML + Streamlit |
+| 🏥 Health Data Clustering | KMeans clustering Streamlit dashboard | Unsupervised ML |
 
-### 1. [Churn_prediction](https://github.com/furqank73/Churn_prediction)
-   - A brief description of the project.
-   - **Tech Stack**: Python, Scikit-Learn, Pandas
+### 🤖 AI Engineering & RAG
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔎 **Comment Scraper App** | YouTube comment scraper + Sentiment analyzer | Python, Flask |
+| 📚 **Multi-Modal RAG App** | PDF AI chatbot + document QA | LangChain, Gemini |
+| 🔗 **LangGraph AI Agent** | Autonomous AI agent using LangGraph | Agentic AI |
+| 🔊 **Text-to-Speech App** | Custom AI voice generator | Streamlit, gTTS |
 
-### 2. [House-Price-Prediction](https://github.com/furqank73/House-Price-Prediction)
-   - A brief description of the project.
-   - **Tech Stack**: TensorFlow, Keras, NumPy
-
-### 3. [CarPricePredictor](https://github.com/furqank73/CarPricePredictor)
-   - A brief description of the project.
-   - **Tech Stack**: Python, Tableau, SQL
-and more
 ---
 
 ## 📈 GitHub Stats
 
 ![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqank73&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqank73&layout=compact&theme=radical)
 
 ---
 
-## 🌟 Contributions Welcome
+## 🤝 Collaboration
 
-I'm always open to collaborating on interesting data science projects. If you have an idea or want to contribute to any of my repositories, feel free to open an issue or submit a pull request!
-
----
-
-## 📬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/furqan-khan-256798268/)
-
----
-
-## 📜 Favorite Quote
-
-> "Data is the new oil, and AI is the new electricity." – Andrew Ng
+I’m open to collaborations on:
+✅ Machine Learning Projects  
+✅ AI Agent & LLM Applications  
+✅ Streamlit App Development  
+✅ Data Science Dashboards  
+✅ End-to-End ML Deployment  
 
 ---
 
-⭐️ Thanks for visiting my profile! Have a great day! 😄
+## 📬 Connect With Me
+
+- 📩 Email: **furqankhan123213@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/furqan-khan-256798268/
+- 🐍 GitHub: https://github.com/furqank73
+- 🏆 Kaggle: https://www.kaggle.com/fkgaming
+
+---
+
+### 📜 Favorite Quote
+> "First, solve the problem. Then, write the code." – John Johnson
+
+⭐ Thanks for visiting! Feel free to explore my repositories and connect with me. 🚀
+
